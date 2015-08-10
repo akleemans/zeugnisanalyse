@@ -1,4 +1,4 @@
-# zeugnisanalyse
+# Zeugnisanalyse
 
 Genug von schwer lesbaren Arbeitszeugnissen? Übersetze aus Textbausteinen zusammengesetzte Zeugnisse zurück in ihre Ursprungsbewertung!
 
