@@ -4,7 +4,7 @@ Genug von schwer lesbaren Arbeitszeugnissen? Übersetze aus Textbausteinen zusam
 
 Ein Abschnitt wie der folgende (Beispiel)
 
-    Herr Kleemans besitzt ein sehr fundiertes Fachwissen und verfügt über eine begrenzte Erfahrung in seinen Aufgaben. Er setzt erworbenes Wissen vorbildlich in die Praxis um und fand sich in neuen Aufgaben mit bemerkenswerter Leichtigkeit zurecht. Er legte Wert darauf, durch permanente Weiterbildung mit der fachlichen Entwicklung Schritt zu halten.
+> Herr Kleemans besitzt ein sehr fundiertes Fachwissen und verfügt über eine begrenzte Erfahrung in seinen Aufgaben. Er setzt erworbenes Wissen vorbildlich in die Praxis um und fand sich in neuen Aufgaben mit bemerkenswerter Leichtigkeit zurecht. Er legte Wert darauf, durch permanente Weiterbildung mit der fachlichen Entwicklung Schritt zu halten.
 
 wird übersetzt in eine übersichtliche Bewertung mit Angabe der Kategorie:
 
