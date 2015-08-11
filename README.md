@@ -19,4 +19,6 @@ Die verwendeten Klauseln oder Textbausteine sind Beispiele aus der Praxis und m�
 Überhaupt wird jeder Anspruch auf Korrektheit oder Haftung abgelehnt (siehe Lizenz).
 
 ## Anwendung
-Eigener Text in `zeugnis_beispiel.txt` hineinkopieren und Python-Skript ausführen.
+Eigener Text in `zeugnis_beispiel.txt` hineinkopieren und Python-Skript ausführen:
+
+    python zeugnisanalyse.py
